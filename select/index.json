@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "1.0 - one point zero",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-18T19:55:31.481848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Macadam 3, 2, 1, 0",
+      "artist": "Riff",
+      "has_synced": false,
+      "path": "select/01_Macadam_3,_2,_1,_0_Riff.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1:0 Für Babylon",
+      "artist": "Beginner",
+      "has_synced": true,
+      "path": "select/02_1_0_Für_Babylon_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1-0 Für Babylon",
+      "artist": "Absolute Beginner",
+      "has_synced": true,
+      "path": "select/03_1-0_Für_Babylon_Absolute_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Roses 1.0",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/04_White_Roses_1.0_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A l'envers 1.0",
+      "artist": "Amir",
+      "has_synced": false,
+      "path": "select/05_A_l'envers_1.0_Amir.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "À l'envers 1.0",
+      "artist": "Amir",
+      "has_synced": false,
+      "path": "select/06_À_l'envers_1.0_Amir.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1 0 0 . m i l ‘ (with Bas)",
+      "artist": "J. Cole feat. Bas",
+      "has_synced": true,
+      "path": "select/07_1_0_0_._m_i_l_‘_(with_Bas)_J._Cole_feat._Bas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1 0 0 . m i l ‘",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/08_1_0_0_._m_i_l_‘_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Echoes of Evangelion, Act V: A Cruel Angel Thesis 3.0+1.0 (the End of Evangelion)",
+      "artist": "Neotokio3",
+      "has_synced": true,
+      "path": "select/09_Echoes_of_Evangelion,_Act_V__A_Cruel_Angel_Thesis_3.0+1.0_(the_End_of_Evangelion_Neotokio3.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Time Stood Still 1.0",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/10_Time_Stood_Still_1.0_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Word Made Flesh 1.0",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/11_Word_Made_Flesh_1.0_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Worldwide Epiphany 1.0",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/12_Worldwide_Epiphany_1.0_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "1 0 0 . m i l ‘ [Explicit]",
+      "artist": "J. Cole & Bas",
+      "has_synced": true,
+      "path": "select/13_1_0_0_._m_i_l_‘_[Explicit]_J._Cole_&_Bas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Birthright (Beta 1.0)",
+      "artist": "Celldweller",
+      "has_synced": true,
+      "path": "select/14_Birthright_(Beta_1.0)_Celldweller.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1.0",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_1.0_amazarashi.txt"
+    }
+  ]
+}
